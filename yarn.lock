@@ -7539,6 +7539,11 @@
   "resolved" "https://registry.npmjs.org/object-keys/-/object-keys-1.1.1.tgz"
   "version" "1.1.1"
 
+"object-path@0.6.0":
+  "integrity" "sha1-tpp9EQk3k08zbKVh/ZvhrXt+DLc="
+  "resolved" "https://registry.npmjs.org/object-path/-/object-path-0.6.0.tgz"
+  "version" "0.6.0"
+
 "object-visit@^1.0.0":
   "integrity" "sha1-95xEk68MU3e1n+OdOV5BBC3QRbs="
   "resolved" "https://registry.npmjs.org/object-visit/-/object-visit-1.0.1.tgz"
@@ -10086,6 +10091,13 @@
     "faye-websocket" "^0.11.3"
     "uuid" "^3.4.0"
     "websocket-driver" "^0.7.4"
+
+"sort-by@^1.2.0":
+  "integrity" "sha1-7ZK7/5/SKEtB9lA+OElmB7Il/m8="
+  "resolved" "https://registry.npmjs.org/sort-by/-/sort-by-1.2.0.tgz"
+  "version" "1.2.0"
+  dependencies:
+    "object-path" "0.6.0"
 
 "sort-keys@^1.0.0":
   "integrity" "sha1-RBttTTRnmPG05J6JIK37oOVD+a0="
